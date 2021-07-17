@@ -1,0 +1,15 @@
+{
+  "name": "awf",
+  "version": "1.0.0",
+  "description": "UAS Pemrograman Web Aditya Wahyu Firmansyah - 8B - 17083000066",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AWF",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  }
+}

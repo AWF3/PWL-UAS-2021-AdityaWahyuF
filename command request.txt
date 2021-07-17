@@ -1,0 +1,5 @@
+http://localhost:3000/crud/ : GET
+http://localhost:3000/crud/*id : GET by ID
+http://localhost:3000/crud/ : POST
+http://localhost:3000/crud/*id : DELETE by ID
+http://localhost:3000/crud/*id : PUT by ID
